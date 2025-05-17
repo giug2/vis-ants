@@ -1,0 +1,12 @@
+[
+  { "id": 1, "coordX": 50, "coordY": 80, "dimAddome": 15, "lungAntenne": 20, "dimTesta": 15, "lungZampe": 15, "colore": "#e63946"},  
+  { "id": 2, "coordX": 150, "coordY": 180, "dimAddome": 12, "lungAntenne": 25, "dimTesta": 12, "lungZampe": 10, "colore": "#1d3557"},
+  { "id": 3, "coordX": 250, "coordY": 130, "dimAddome": 18, "lungAntenne": 17, "dimTesta": 10, "lungZampe": 22, "colore": "#2a9d8f"},
+  { "id": 4, "coordX": 350, "coordY": 60,  "dimAddome": 14, "lungAntenne": 23, "dimTesta": 20, "lungZampe": 17, "colore": "#f4a261"},
+  { "id": 5, "coordX": 450, "coordY": 230, "dimAddome": 16, "lungAntenne": 22, "dimTesta": 10, "lungZampe": 20, "colore": "#264653"},
+  { "id": 6, "coordX": 550, "coordY": 90,  "dimAddome": 19, "lungAntenne": 14, "dimTesta": 18, "lungZampe": 19, "colore": "#e9c46a"},
+  { "id": 7, "coordX": 650, "coordY": 210, "dimAddome": 20, "lungAntenne": 15, "dimTesta": 8,  "lungZampe": 10, "colore": "#6a4c93"},
+  { "id": 8, "coordX": 750, "coordY": 160, "dimAddome": 10, "lungAntenne": 20, "dimTesta": 10, "lungZampe": 20, "colore": "#f3722c"},
+  { "id": 9, "coordX": 850, "coordY": 120, "dimAddome": 22, "lungAntenne": 30, "dimTesta": 15, "lungZampe": 13, "colore": "#90be6d"},
+  { "id": 10,"coordX": 950, "coordY": 190, "dimAddome": 23, "lungAntenne": 27,  "dimTesta": 17, "lungZampe": 16, "colore": "#277da1"} 
+]
