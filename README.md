@@ -19,4 +19,4 @@ Click sinistro su una formica → la seleziona.
 Click su una seconda formica → le due si scambiano tutte le variabili, eccetto quelle usate per x e y.
 
 #### Demo:
-[Guarda la demo del progetto](/demo.mp4)
+[Guarda la demo del progetto](demo/demo.gif)
