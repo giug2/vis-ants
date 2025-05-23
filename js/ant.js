@@ -27,7 +27,7 @@ d3.json("data/data.json").then(data => {
         [selected.lungAntenne, d.lungAntenne] = [d.lungAntenne, selected.lungAntenne];
         [selected.lungZampe, d.lungZampe] = [d.lungZampe, selected.lungZampe];
         [selected.dimTesta, d.dimTesta] = [d.dimTesta, selected.dimTesta];
-        //[selected.colore, d.colore] = [d.colore, selected.colore];
+        [selected.colore, d.colore] = [d.colore, selected.colore];
 
         update();
         svg.selectAll(".selected").classed("selected", false);
