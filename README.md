@@ -23,3 +23,5 @@ Click su una seconda formica → le due si scambiano tutte le variabili, eccetto
 
 ## Author
 [Gaglione Giulia](https://github.com/giug2)
+<img src="immagini/avatar.png" alt="Profilo" width="100" style="border-radius: 50%;">
+
